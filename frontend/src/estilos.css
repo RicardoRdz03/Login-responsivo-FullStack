@@ -1,0 +1,33 @@
+#boton {
+  background-color: #000;
+  border: 2px solid #000;
+  color: white;
+  padding: 12px 20px;
+  transition: all 0.3s;
+  border-radius: 25px;
+}
+
+#boton:hover {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: 2px solid #000;
+}
+
+#mano:hover {
+  cursor: pointer;
+}
+
+#titulos {
+  font-size: 70px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#titulo {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
